@@ -24,22 +24,22 @@ This is a back-end API for an e-commerce platform built with Django and Django R
 
 ## Features
 
-- **Product Management**: Create, update, retrieve, and delete products.
+- **Product Management**: Create and retrieve products and product details.
   <img width="1180" alt="Screenshot 2025-01-03 at 05 22 08" src="https://github.com/user-attachments/assets/f4b83d3c-d2f2-4b6f-b352-3dc4e0717a2f" />
   <img width="823" alt="Screenshot 2025-01-03 at 05 22 31" src="https://github.com/user-attachments/assets/7f3ac8b1-afcd-4fb8-8170-57342b1c7f97" />
 
-- **Discount Management**: Create, update, retrieve, and delete discount records.
+- **Discount Management**: Create and retrieve discount records.
   <img width="1213" alt="Screenshot 2025-01-03 at 05 34 28" src="https://github.com/user-attachments/assets/daef4e3b-c193-4c66-8857-238ba9dedd03" />
 
 - **Discount Application**: Apply percentage or fixed discounts to product prices.
   <img width="1170" alt="Screenshot 2025-01-03 at 05 36 52" src="https://github.com/user-attachments/assets/b1de84f6-ef6a-42ac-942f-87b93608a434" />
 
-- **Category Creation**: Create categories
-<img width="1148" alt="Screenshot 2025-01-03 at 05 21 30" src="https://github.com/user-attachments/assets/f9e0a329-f120-43a2-8aee-923f2626ea9e" />
+- **Category Creation**: Create categories, Retrieve, Update and Delete categories
+  <img width="1148" alt="Screenshot 2025-01-03 at 05 21 30" src="https://github.com/user-attachments/assets/f9e0a329-f120-43a2-8aee-923f2626ea9e" />
 
 - **API Documentation**: Automatically generated Swagger documentation for easy interaction with the API.
   
-<img width="1238" alt="Screenshot 2025-01-03 at 05 53 34" src="https://github.com/user-attachments/assets/6227030f-e777-4c65-b7a8-04d504a3e36a" />
+  <img width="1238" alt="Screenshot 2025-01-03 at 05 53 34" src="https://github.com/user-attachments/assets/6227030f-e777-4c65-b7a8-04d504a3e36a" />
 
 
 
@@ -139,5 +139,7 @@ This project is licensed under the GNU License - see the LICENSE file for detail
 
 If you have any questions or need further information, feel free to reach out to me via the following methods:
 
-- **Email**: [johnrumide@gmail.com](mailto:your.email@example.com)
+- **Email**: [johnrumide@gmail.com](mailto:johnrumide@gmail.com)
+- **GitHub**: [github.com/codestronomer](https://github.com/codestronomer)
+I welcome any inquiries or suggestions you may have.
 
