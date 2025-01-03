@@ -41,7 +41,9 @@ This is a back-end API for an e-commerce platform built with Django and Django R
   
   <img width="1238" alt="Screenshot 2025-01-03 at 05 53 34" src="https://github.com/user-attachments/assets/6227030f-e777-4c65-b7a8-04d504a3e36a" />
 
-
+### Deployment
+Live deployment of the project is accessible [here](https://e-commerce-product-management-system.onrender.com)
+- Note: It's a free render deployment so the service spins down due to inactivity and takes about 2 - 3 minutes to spin back up.
 
 ## Installation
 
