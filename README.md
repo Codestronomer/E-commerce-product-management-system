@@ -21,6 +21,7 @@ This is a back-end API for an e-commerce platform built with Django and Django R
 - Discount management (CRUD)
 - Swagger-based API documentation
 - Apply discounts to products based on various criteria (percentage or fixed amount)
+- Unit Tests using Django and DRF test suites
 
   
 ### Deployment
