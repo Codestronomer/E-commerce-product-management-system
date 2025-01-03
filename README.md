@@ -63,7 +63,7 @@ Before running the project, ensure you have the following installed:
 Clone this repository to your local machine using:
 
 ```bash
-git clone [https://github.com/codestron-name.git](https://github.com/Codestronomer/E-commerce-product-management-system.git
+git clone https://github.com/Codestronomer/E-commerce-product-management-system.git
 ```
 
 ### Install Dependencies
@@ -71,7 +71,7 @@ git clone [https://github.com/codestron-name.git](https://github.com/Codestronom
 Navigate into the project directory and install the dependencies
 
 ```bash
-cd your-project-directory
+cd e-commerce-product-management-system
 pip install -r requirements.txt
 ```
 
