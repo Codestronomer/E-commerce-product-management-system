@@ -146,5 +146,6 @@ If you have any questions or need further information, feel free to reach out to
 
 - **Email**: [johnrumide@gmail.com](mailto:johnrumide@gmail.com)
 - **GitHub**: [github.com/codestronomer](https://github.com/codestronomer)
+
 I welcome any inquiries or suggestions you may have.
 
