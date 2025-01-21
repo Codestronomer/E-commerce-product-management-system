@@ -66,7 +66,7 @@ class DiscountSerializer(serializers.ModelSerializer):
   def create(self, validated_data):
     return Discount.objects.create(**validated_data)
 
-  # example schema fields so Swagger can display them since it's not a model serializer
+  # example schema fields for swagger schema
   product = serializers.PrimaryKeyRelatedField(queryset=Product.objects.all())
   discount_type = serializers.ChoiceField(choices=DiscountType.choices)
   value = serializers.DecimalField(max_digits=10, decimal_places=2)
